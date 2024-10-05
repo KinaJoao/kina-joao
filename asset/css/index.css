@@ -218,16 +218,6 @@ header .intro {
         font-size: 20px;
     }
 }
-.menu{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 70%;
-    height: 100vh;
-    z-index: 200000;
-    background-color: #08C076;
-}
-
 /*MAIN*/
 main {
     width: 100%;
